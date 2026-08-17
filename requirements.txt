@@ -1,0 +1,10 @@
+jupyterlab
+numpy
+pandas
+openpyxl
+scikit-learn
+xgboost
+optuna
+shap
+matplotlib
+geopandas

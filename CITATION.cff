@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and this software repository."
+title: "ML-based mapping of post-harvest residual soil nitrate"
+type: software
+version: 1.0.0
+date-released: 2026-08-17
+repository-code: "https://github.com/tawhidhossain13/ML-based-mapping-of-soil-residual-nitrate-"
+authors:
+  - family-names: Hossain
+    given-names: Md Tawhid
+  - family-names: Tamagno
+    given-names: Santiago
+  - family-names: Bellingrath-Kimura
+    given-names: Sonoko D.
+  - family-names: Grahmann
+    given-names: Kathrin
